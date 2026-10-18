@@ -1,4 +1,4 @@
 # Jadoo_landing_page
 # Dunkin' Donuts Website Clone
 
-🔗 **Live Demo:** [[Jadoo_landing_page](https://hageryasser31.github.io/Jadoo_landing_page/)](https://hageryasser31.github.io/Jadoo_landing_page/)
+**Live Demo:** [Jadoo_landing_page](https://hageryasser31.github.io/Jadoo_landing_page/)
